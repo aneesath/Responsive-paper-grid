@@ -1,1 +1,1 @@
-# Responsive-paper-grid
+# papergrid-responsive
